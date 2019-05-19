@@ -1,35 +1,53 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Privacy PolicyIntroduction
 
+We develops and publishes various mobile applications for smartphones and mobile devices. We are dedicated to protect our users' (“users” or “you”) privacy rights. The purpose of this page is to inform you about our policies with the collection, use, and disclosure of Personally Identifiable Information(“PII”) if anyone decided to use the applications or software offered by us (collectively, the “Service”). If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personally Identifiable Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+Data We Collect
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+We use an analytics tool called Firebase in order to gain insight into how our app is being used. This tool automatically collect certain types of information.
 
-(* = not included)
+[ The list of features of Firebase we use in the application ]
 
-AJ
-aj@lkn.io | @ajlkn
+Google Analytics for Firebase
 
+[ The list of certain types of information Firebase automatically collect from this application ]
 
-Credits:
+Mobile ad IDsIDFVs/Android IDsInstance IDsAnalytics App Instance IDsDevice specs (iOS)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+[ The list of certain types of information Admob automatically collect from this application ]
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+CookiesUnique device identifiers for advertising (Google Advertiser ID or IDFA, for example)Usage DataHow We Use Information We Collect
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+We may use the information collected from you in any one or more of the following ways:
+
+To maintain and improve our ServiceTo assist us in analyzing how our Service is usedTo prevent fraud or potentially illegal, unethical activitiesTo prevent ad-fraud and abuseTo personalizes user's advertising experienceTo provide advertising and promotional information in connection with the Service
+
+We want to inform users of this Service that these third parties have access to your certain Personally Identifiable Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+How We Protect Your Information
+
+The security and confidentiality of your Personally Identifiable Information is very important to us, so we take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your information from unauthorized access and disclosure. Please know that, despite our efforts, no security measures are perfect or impenetrable.
+
+How We Share Your Information
+
+We do not use or share any information of yours with anyone except as described in this Privacy Policy page. We do not sell any information of yours to third parties.
+
+About Deletion Of Information
+
+All data entered by you through the app will be deleted by removing the app from your device. Personally Identifiable Information that is collected automatically will be processed and stored for as long as required by the purpose they have been collected for. Personally Identifiable Information will be deleted after a reasonable period if you do not use our Service anymore.
+
+Further information about Personal DataThe Service is not directed to children under the age of 13 Users declare themselves to be adult according to their applicable legislation. Minors may use this Application only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use this Application.Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+How To Contact Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+spicrrpon@gmail.com
+
+Last Edited on Sept 19, 2018
